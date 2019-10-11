@@ -1,6 +1,6 @@
 {
-    "app_id": "com.karaad.karaadmobile",
-    "appname": "karaad Mobile",
+    "app_id": "com.safir.safirmobile",
+    "appname": "SafirAbiAram Mobile",
     "desktopappname": "karaad Desktop",
     "versioncode": 3610,
     "versionname": "3.6.1",
@@ -15,20 +15,20 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/karaad.ir",
+            "url": "https:\/\/lms.karaad.ir",
             "username": "student",
-            "password": "Rad@@60036003"
+            "password": ""
         },
         "teacher": {
-            "url": "https:\/\/karaad.ir",
+            "url": "https:\/\/lms.karaad.ir",
             "username": "teacher",
-            "password": "Rad@@60036003"
+            "password": ""
         }
     },
     "customurlscheme": "karaadmobile",
-    "siteurl": "karaad.ir",
+    "siteurl": "lms.karaad.ir",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
-    "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/karaad.ir"
+    "forcedefaultlanguage": true,
+    "privacypolicy": "https:\/\/lms.karaad.ir"
 }
