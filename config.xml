@@ -6,14 +6,14 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>karaad</name>
+    <name>Safir Abi Aram</name>
 
     <description>
-        karaad official app
+        powered by karaad official app
     </description>
 
-    <author href="http://karaad.ir" email="info@karaad.ir">
-        karaad Mobile team
+    <author href="http://lms.karaad.ir" email="info@karaad.ir">
+       Dr.Behzad Pazhoumand Rad
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
